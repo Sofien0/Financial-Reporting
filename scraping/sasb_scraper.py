@@ -1,5 +1,3 @@
-import os
-
 import pandas as pd
 
 from selenium import webdriver
@@ -7,17 +5,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-PDF_FOLDER = "sasb_reporters_pdfs"
-CSV_FILE = "sasb_reporters_metadata.csv"
+CSV_FILE = "data/reports/sasb_reporters_metadata_initial.csv"
 URL = "https://sasb.ifrs.org/company-use/sasb-reporters/"
-
-# Create pdf folder if not exist
-os.makedirs(PDF_FOLDER, exist_ok=True)
 
 def setup_driver():
     options = webdriver.ChromeOptions()
     # Uncomment below to run headless (no browser UI)
-    # options.add_argument("--headless")
+    options.add_argument("--headless")
     driver = webdriver.Chrome(options=options)
     return driver
 
