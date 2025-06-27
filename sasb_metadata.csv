@@ -1,0 +1,78 @@
+Sector,Industry,PDF_URL
+Consumer Goods,"Apparel, Accessories & Footwear",https://d3flraxduht3gu.cloudfront.net/latest_standards/apparel-accessories-and-footwear-standard_en-gb.pdf
+Consumer Goods,Appliance Manufacturing,https://d3flraxduht3gu.cloudfront.net/latest_standards/appliance-manufacturing-standard_en-gb.pdf
+Consumer Goods,Building Products & Furnishings,https://d3flraxduht3gu.cloudfront.net/latest_standards/building-products-and-furnishings-standard_en-gb.pdf
+Consumer Goods,E-Commerce,https://d3flraxduht3gu.cloudfront.net/latest_standards/e-commerce-standard_en-gb.pdf
+Consumer Goods,Household & Personal Products,https://d3flraxduht3gu.cloudfront.net/latest_standards/household-and-personal-products-standard_en-gb.pdf
+Consumer Goods,Multiline and Specialty Retailers & Distributors,https://d3flraxduht3gu.cloudfront.net/latest_standards/multiline-and-specialty-retailers-and-distributors-standard_en-gb.pdf
+Consumer Goods,Toys & Sporting Goods,https://d3flraxduht3gu.cloudfront.net/latest_standards/toys-and-sporting-goods-standard_en-gb.pdf
+Extractives & Minerals Processing,Coal Operations,https://d3flraxduht3gu.cloudfront.net/latest_standards/coal-operations-standard_en-gb.pdf
+Extractives & Minerals Processing,Construction Materials,https://d3flraxduht3gu.cloudfront.net/latest_standards/construction-materials-standard_en-gb.pdf
+Extractives & Minerals Processing,Iron & Steel Producers,https://d3flraxduht3gu.cloudfront.net/latest_standards/iron-and-steel-producers-standard_en-gb.pdf
+Extractives & Minerals Processing,Metals & Mining,https://d3flraxduht3gu.cloudfront.net/latest_standards/metals-and-mining-standard_en-gb.pdf
+Extractives & Minerals Processing,Oil & Gas – Exploration & Production,https://d3flraxduht3gu.cloudfront.net/latest_standards/oil-and-gas-exploration-and-production-standard_en-gb.pdf
+Extractives & Minerals Processing,Oil & Gas – Midstream,https://d3flraxduht3gu.cloudfront.net/latest_standards/oil-and-gas-midstream-standard_en-gb.pdf
+Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,https://d3flraxduht3gu.cloudfront.net/latest_standards/oil-and-gas-refining-and-marketing-standard_en-gb.pdf
+Extractives & Minerals Processing,Oil & Gas – Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/oil-and-gas-services-standard_en-gb.pdf
+Financials,Asset Management & Custody Activities,https://d3flraxduht3gu.cloudfront.net/latest_standards/asset-management-and-custody-activities-standard_en-gb.pdf
+Financials,Commercial Banks,https://d3flraxduht3gu.cloudfront.net/latest_standards/commercial-banks-standard_en-gb.pdf
+Financials,Consumer Finance,https://d3flraxduht3gu.cloudfront.net/latest_standards/consumer-finance-standard_en-gb.pdf
+Financials,Insurance,https://d3flraxduht3gu.cloudfront.net/latest_standards/insurance-standard_en-gb.pdf
+Financials,Investment Banking & Brokerage,https://d3flraxduht3gu.cloudfront.net/latest_standards/investment-banking-and-brokerage-standard_en-gb.pdf
+Financials,Mortgage Finance,https://d3flraxduht3gu.cloudfront.net/latest_standards/mortgage-finance-standard_en-gb.pdf
+Financials,Security & Commodity Exchanges,https://d3flraxduht3gu.cloudfront.net/latest_standards/security-and-commodity-exchanges-standard_en-gb.pdf
+Food & Beverage,Agricultural Products,https://d3flraxduht3gu.cloudfront.net/latest_standards/agricultural-products-standard_en-gb.pdf
+Food & Beverage,Alcoholic Beverages,https://d3flraxduht3gu.cloudfront.net/latest_standards/alcoholic-beverages-standard_en-gb.pdf
+Food & Beverage,Food Retailers & Distributors,https://d3flraxduht3gu.cloudfront.net/latest_standards/food-retailers-and-distributors-standard_en-gb.pdf
+Food & Beverage,"Meat, Poultry & Dairy",https://d3flraxduht3gu.cloudfront.net/latest_standards/meat-poultry-and-dairy-standard_en-gb.pdf
+Food & Beverage,Non-Alcoholic Beverages,https://d3flraxduht3gu.cloudfront.net/latest_standards/non-alcoholic-beverages-standard_en-gb.pdf
+Food & Beverage,Processed Foods,https://d3flraxduht3gu.cloudfront.net/latest_standards/processed-foods-standard_en-gb.pdf
+Food & Beverage,Restaurants,https://d3flraxduht3gu.cloudfront.net/latest_standards/restaurants-standard_en-gb.pdf
+Food & Beverage,Tobacco,https://d3flraxduht3gu.cloudfront.net/latest_standards/tobacco-standard_en-gb.pdf
+Health Care,Biotechnology & Pharmaceuticals,https://d3flraxduht3gu.cloudfront.net/latest_standards/biotechnology-and-pharmaceuticals-standard_en-gb.pdf
+Health Care,Drug Retailers,https://d3flraxduht3gu.cloudfront.net/latest_standards/drug-retailers-standard_en-gb.pdf
+Health Care,Health Care Delivery,https://d3flraxduht3gu.cloudfront.net/latest_standards/health-care-delivery-standard_en-gb.pdf
+Health Care,Health Care Distributors,https://d3flraxduht3gu.cloudfront.net/latest_standards/health-care-distributors-standard_en-gb.pdf
+Health Care,Managed Care,https://d3flraxduht3gu.cloudfront.net/latest_standards/managed-care-standard_en-gb.pdf
+Health Care,Medical Equipment & Supplies,https://d3flraxduht3gu.cloudfront.net/latest_standards/medical-equipment-and-supplies-standard_en-gb.pdf
+Infrastructure,Electric Utilities & Power Generators,https://d3flraxduht3gu.cloudfront.net/latest_standards/electric-utilities-and-power-generators-standard_en-gb.pdf
+Infrastructure,Engineering & Construction Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/engineering-and-construction-services-standard_en-gb.pdf
+Infrastructure,Gas Utilities & Distributors,https://d3flraxduht3gu.cloudfront.net/latest_standards/gas-utilities-and-distributors-standard_en-gb.pdf
+Infrastructure,Home Builders,https://d3flraxduht3gu.cloudfront.net/latest_standards/home-builders-standard_en-gb.pdf
+Infrastructure,Real Estate,https://d3flraxduht3gu.cloudfront.net/latest_standards/real-estate-standard_en-gb.pdf
+Infrastructure,Real Estate Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/real-estate-services-standard_en-gb.pdf
+Infrastructure,Waste Management,https://d3flraxduht3gu.cloudfront.net/latest_standards/waste-management-standard_en-gb.pdf
+Infrastructure,Water Utilities & Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/water-utilities-and-services-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Biofuels,https://d3flraxduht3gu.cloudfront.net/latest_standards/biofuels-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Forestry Management,https://d3flraxduht3gu.cloudfront.net/latest_standards/forestry-management-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Fuel Cells & Industrial Batteries,https://d3flraxduht3gu.cloudfront.net/latest_standards/fuel-cells-and-industrial-batteries-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Pulp & Paper Products,https://d3flraxduht3gu.cloudfront.net/latest_standards/pulp-and-paper-products-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Solar Technology & Project Developers,https://d3flraxduht3gu.cloudfront.net/latest_standards/solar-technology-and-project-developers-standard_en-gb.pdf
+Renewable Resources & Alternative Energy,Wind Technology & Project Developers,https://d3flraxduht3gu.cloudfront.net/latest_standards/wind-technology-and-project-developers-standard_en-gb.pdf
+Resource Transformation,Aerospace & Defence,https://d3flraxduht3gu.cloudfront.net/latest_standards/aerospace-and-defence-standard_en-gb.pdf
+Resource Transformation,Chemicals,https://d3flraxduht3gu.cloudfront.net/latest_standards/chemicals-standard_en-gb.pdf
+Resource Transformation,Containers & Packaging,https://d3flraxduht3gu.cloudfront.net/latest_standards/containers-and-packaging-standard_en-gb.pdf
+Resource Transformation,Electrical & Electronic Equipment,https://d3flraxduht3gu.cloudfront.net/latest_standards/electrical-and-electronic-equipment-standard_en-gb.pdf
+Resource Transformation,Industrial Machinery & Goods,https://d3flraxduht3gu.cloudfront.net/latest_standards/industrial-machinery-and-goods-standard_en-gb.pdf
+Services,Advertising & Marketing,https://d3flraxduht3gu.cloudfront.net/latest_standards/advertising-and-marketing-standard_en-gb.pdf
+Services,Casinos & Gaming,https://d3flraxduht3gu.cloudfront.net/latest_standards/casinos-and-gaming-standard_en-gb.pdf
+Services,Education,https://d3flraxduht3gu.cloudfront.net/latest_standards/education-standard_en-gb.pdf
+Services,Hotels & Lodging,https://d3flraxduht3gu.cloudfront.net/latest_standards/hotels-and-lodging-standard_en-gb.pdf
+Services,Leisure Facilities,https://d3flraxduht3gu.cloudfront.net/latest_standards/leisure-facilities-standard_en-gb.pdf
+Services,Media & Entertainment,https://d3flraxduht3gu.cloudfront.net/latest_standards/media-and-entertainment-standard_en-gb.pdf
+Services,Professional & Commercial Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/professional-and-commercial-services-standard_en-gb.pdf
+Technology & Communications,Electronic Manufacturing Services & Original Design Manufacturing,https://d3flraxduht3gu.cloudfront.net/latest_standards/electronic-manufacturing-services-and-original-design-manufacturing-standard_en-gb.pdf
+Technology & Communications,Hardware,https://d3flraxduht3gu.cloudfront.net/latest_standards/hardware-standard_en-gb.pdf
+Technology & Communications,Internet Media & Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/internet-media-and-services-standard_en-gb.pdf
+Technology & Communications,Semiconductors,https://d3flraxduht3gu.cloudfront.net/latest_standards/semiconductors-standard_en-gb.pdf
+Technology & Communications,Software & IT Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/software-and-it-services-standard_en-gb.pdf
+Technology & Communications,Telecommunication Services,https://d3flraxduht3gu.cloudfront.net/latest_standards/telecommunication-services-standard_en-gb.pdf
+Transportation,Air Freight & Logistics,https://d3flraxduht3gu.cloudfront.net/latest_standards/air-freight-and-logistics-standard_en-gb.pdf
+Transportation,Airlines,https://d3flraxduht3gu.cloudfront.net/latest_standards/airlines-standard_en-gb.pdf
+Transportation,Auto Parts,https://d3flraxduht3gu.cloudfront.net/latest_standards/auto-parts-standard_en-gb.pdf
+Transportation,Automobiles,https://d3flraxduht3gu.cloudfront.net/latest_standards/automobiles-standard_en-gb.pdf
+Transportation,Car Rental & Leasing,https://d3flraxduht3gu.cloudfront.net/latest_standards/car-rental-and-leasing-standard_en-gb.pdf
+Transportation,Cruise Lines,https://d3flraxduht3gu.cloudfront.net/latest_standards/cruise-lines-standard_en-gb.pdf
+Transportation,Marine Transportation,https://d3flraxduht3gu.cloudfront.net/latest_standards/marine-transportation-standard_en-gb.pdf
+Transportation,Rail Transportation,https://d3flraxduht3gu.cloudfront.net/latest_standards/rail-transportation-standard_en-gb.pdf
+Transportation,Road Transportation,https://d3flraxduht3gu.cloudfront.net/latest_standards/road-transportation-standard_en-gb.pdf
