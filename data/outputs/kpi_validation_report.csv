@@ -1,0 +1,75 @@
+kpi_name,company,value,unit,year,sector,subsector,pdf_path,validation_result
+Amount of hazardous waste generated,AAON_Inc,150.0,,2023,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\AAON_Inc__2023.pdf,✘ Not found
+Hazardous Waste Generation Rate,AAON_Inc,90.0,,2023,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\AAON_Inc__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,AAR_Corp,2024.0,,2024,Resource Transformation,Aerospace & Defence,data\raw\Resource_Transformation\Aerospace_and_Defence\AAR_Corp__2024.pdf,✘ Not found
+Amount of hazardous waste generated,ACE_Enexor_Inc,306.0,,2021,Extractives & Minerals Processing,Oil & Gas – Exploration & Production,,✘ Missing .txt
+Year-over-Year Change in GHG Emissions,ACE_Enexor_Inc,2050.0,,2021,Extractives & Minerals Processing,Oil & Gas – Exploration & Production,,✘ Missing .txt
+Year-over-Year Change in GHG Emissions,"ACI_Worldwide,_Inc",2025.0,,2023,Technology & Communications,Software & IT Services,"data\raw\Technology_and_Communications\Software_and_IT_Services\ACI_Worldwide,_Inc__2023.pdf",✘ Not found
+Amount of hazardous waste generated,AC_Energy_Inc.,17352.41,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\AC_Energy_Inc.__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,AC_Energy_Inc.,956.0,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\AC_Energy_Inc.__2023.pdf,✘ Not found
+Amount of hazardous waste generated,ADT_Inc,6937.0,,2023,Services,Professional & Commercial Services,data\raw\Services\Professional_and_Commercial_Services\ADT_Inc__2023.pdf,✘ Not found
+Amount of hazardous waste generated,AES,33123.0,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\AES_Andes_SA__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,AES,539000.0,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\AES_Andes_SA__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,AES_Brasil,77.0,,2023,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,data\raw\Renewable_Resources_and_Alternative_Energy\Wind_Technology_and_Project_Developers\AES_Brasil__2023.pdf,✘ Not found
+GHG Emissions Intensity per kWh Delivered,AGCO_Corporation,75.0,,2024,Resource Transformation,Industrial Machinery & Goods,data\raw\Resource_Transformation\Industrial_Machinery_and_Goods\AGCO_Corporation__2024.pdf,✘ Not found
+Hazardous Waste Generation Rate,AGCO_Corporation,2024.0,,2024,Resource Transformation,Industrial Machinery & Goods,data\raw\Resource_Transformation\Industrial_Machinery_and_Goods\AGCO_Corporation__2024.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,AGNC_Investment_Corp,17.0,,2023,Financials,Mortgage Finance,data\raw\Financials\Mortgage_Finance\AGNC_Investment_Corp__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,AIG_-_American_International_Group_Inc,2019.0,,2023,Financials,Insurance,data\raw\Financials\Insurance\AIG_-_American_International_Group_Inc__2023.pdf,✘ Not found
+Amount of hazardous waste generated,AandT_Europe_-_Spa,97.0,,2023,,,,✘ Missing .txt
+GHG Emissions Intensity per kWh Delivered,AandT_Europe_-_Spa,305.0,,2023,,,,✘ Missing .txt
+Hazardous Waste Generation Rate,AandT_Europe_-_Spa,2022.0,,2023,,,,✘ Missing .txt
+Amount of hazardous waste generated,Aarti_Industries_Ltd,388730.3,mt,2023,Resource Transformation,Chemicals,data\raw\Resource_Transformation\Chemicals\Aarti_Industries_Ltd__2023-2024.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Aarti_Industries_Ltd,16.0,,2023,Resource Transformation,Chemicals,data\raw\Resource_Transformation\Chemicals\Aarti_Industries_Ltd__2023-2024.pdf,✘ Not found
+Hazardous Waste Generation Rate,Abbott_Laboratories,2023.0,,2023,Health Care,Medical Equipment & Supplies,data\raw\Health_Care\Medical_Equipment_and_Supplies\Abbott_Laboratories__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Abbott_Laboratories,306.0,,2023,Health Care,Medical Equipment & Supplies,data\raw\Health_Care\Medical_Equipment_and_Supplies\Abbott_Laboratories__2023.pdf,✘ Not found
+Hazardous Waste Generation Rate,Abengoa_Yield_plc,2023.0,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\Abengoa_Yield_plc__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Abengoa_Yield_plc,70.0,,2023,Infrastructure,Electric Utilities & Power Generators,data\raw\Infrastructure\Electric_Utilities_and_Power_Generators\Abengoa_Yield_plc__2023.pdf,❓ Partial
+Hazardous Waste Generation Rate,Abu_Dhabi_Commercial_Bank_PJSC_ADCB,2020.0,,2023,Financials,Commercial Banks,data\raw\Financials\Commercial_Banks\Abu_Dhabi_Commercial_Bank_PJSC_ADCB__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Abu_Dhabi_Commercial_Bank_PJSC_ADCB,2030.0,,2023,Financials,Commercial Banks,data\raw\Financials\Commercial_Banks\Abu_Dhabi_Commercial_Bank_PJSC_ADCB__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Acadia_Healthcare_Co_Inc,2.88,,2023,Health Care,Health Care Delivery,data\raw\Health_Care\Health_Care_Delivery\Acadia_Healthcare_Co_Inc__2023.pdf,❓ Partial
+Safety Risk Mitigation Rate,Accor_SA,0.5,,2021,Services,Hotels & Lodging,data\raw\Services\Hotels_and_Lodging\Accor_SA__2021.pdf,❓ Partial
+Year-over-Year Change in GHG Emissions,Accor_SA,2020.0,,2021,Services,Hotels & Lodging,data\raw\Services\Hotels_and_Lodging\Accor_SA__2021.pdf,✘ Not found
+Amount of hazardous waste generated,Accton_Technology_Corp,6.2,,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Accton_Technology_Corp__2023.pdf,❓ Partial
+Year-over-Year Change in GHG Emissions,Accton_Technology_Corp,71.0,,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Accton_Technology_Corp__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Acerinox_SA,1182735.0,,2023,Extractives & Minerals Processing,Iron & Steel Producers,data\raw\Extractives_and_Minerals_Processing\Iron_and_Steel_Producers\Acerinox_SA__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Acerinox_SA,2030.0,,2023,Extractives & Minerals Processing,Iron & Steel Producers,data\raw\Extractives_and_Minerals_Processing\Iron_and_Steel_Producers\Acerinox_SA__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Acme_Electronics_Corp,71.54,,2023,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\Acme_Electronics_Corp__2023.pdf,✔ Found
+Hazardous Waste Generation Rate,Acme_Electronics_Corp,98.0,%,2023,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\Acme_Electronics_Corp__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Acme_Electronics_Corp,13642.0,,2023,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\Acme_Electronics_Corp__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Activision_Blizzard_Inc,2050.0,,2022,Technology & Communications,Software & IT Services,data\raw\Technology_and_Communications\Software_and_IT_Services\Activision_Blizzard_Inc__2022.pdf,✘ Not found
+Amount of hazardous waste generated,Acuity_Brands_Inc,284.0,,2024,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\Acuity_Brands_Inc__2024.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Acuity_Brands_Inc,42.8,,2024,Resource Transformation,Electrical & Electronic Equipment,data\raw\Resource_Transformation\Electrical_and_Electronic_Equipment\Acuity_Brands_Inc__2024.pdf,❓ Partial
+Year-over-Year Change in GHG Emissions,Adecco,51.7,,2022,Services,Professional & Commercial Services,data\raw\Services\Professional_and_Commercial_Services\Adecco__2022.pdf,❓ Partial
+Total GHG Emissions from Power Generation,Adecoagro_SA,38.0,,2023,Food & Beverage,Agricultural Products,data\raw\Food_and_Beverage\Agricultural_Products\Adecoagro_SA__2023.pdf,✘ Not found
+Hazardous Waste Generation Rate,Adient_PLC,75.0,%,2024,Transportation,Auto Parts,data\raw\Transportation\Auto_Parts\Adient_PLC__2024.pdf,✘ Not found
+Safety Risk Mitigation Rate,Adient_PLC,100.0,,2024,Transportation,Auto Parts,data\raw\Transportation\Auto_Parts\Adient_PLC__2024.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Adient_PLC,3.0,,2024,Transportation,Auto Parts,data\raw\Transportation\Auto_Parts\Adient_PLC__2024.pdf,❓ Partial
+Amount of hazardous waste generated,Aditya_Birla_Fashion_and_Retail_Ltd,3730.0,,2023,Consumer Goods,"Apparel, Accessories & Footwear","data\raw\Consumer_Goods\Apparel,_Accessories_and_Footwear\Aditya_Birla_Fashion_and_Retail_Ltd__2023.pdf",✘ Not found
+Total GHG Emissions from Power Generation,Aditya_Birla_Fashion_and_Retail_Ltd,52282.0,,2023,Consumer Goods,"Apparel, Accessories & Footwear","data\raw\Consumer_Goods\Apparel,_Accessories_and_Footwear\Aditya_Birla_Fashion_and_Retail_Ltd__2023.pdf",✘ Not found
+Amount of hazardous waste generated,AdvanSix_Inc,22658.0,,2023,Resource Transformation,Chemicals,data\raw\Resource_Transformation\Chemicals\AdvanSix_Inc__2023.pdf,❓ Partial
+Hazardous Waste Generation Rate,AdvanSix_Inc,2021.0,,2023,Resource Transformation,Chemicals,data\raw\Resource_Transformation\Chemicals\AdvanSix_Inc__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,AdvanSix_Inc,11.0,,2023,Resource Transformation,Chemicals,data\raw\Resource_Transformation\Chemicals\AdvanSix_Inc__2023.pdf,✘ Not found
+Hazardous Waste Generation Rate,"Advance_Auto_Parts,_Inc.",8.8,%,2022,Consumer Goods,Multiline and Specialty Retailers & Distributors,"data\raw\Consumer_Goods\Multiline_and_Specialty_Retailers_and_Distributors\Advance_Auto_Parts,_Inc.__2022.pdf",❓ Partial
+Amount of hazardous waste generated,Advanced_Info_Service_PCL,183.0,,2024,Technology & Communications,Telecommunication Services,data\raw\Technology_and_Communications\Telecommunication_Services\Advanced_Info_Service_PCL__2024.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Advanced_Micro_Devices_Inc_AMD,25.0,,2023,Technology & Communications,Semiconductors,data\raw\Technology_and_Communications\Semiconductors\Advanced_Micro_Devices_Inc_AMD__2023-2024.pdf,✘ Not found
+Amount of hazardous waste generated,Advantage_Energy_Ltd,23.0,,2022,Extractives & Minerals Processing,Oil & Gas – Exploration & Production,,✘ Missing .txt
+Year-over-Year Change in GHG Emissions,Advantage_Energy_Ltd,68591.0,,2022,Extractives & Minerals Processing,Oil & Gas – Exploration & Production,,✘ Missing .txt
+Amount of hazardous waste generated,Advantech_Co_Ltd,914.09,,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Advantech_Co_Ltd__2023.pdf,❓ Partial
+Hazardous Waste Generation Rate,Advantech_Co_Ltd,90.0,%,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Advantech_Co_Ltd__2023.pdf,❓ Partial
+Priority Non-Conformance Rate in Supply Chain Audits,Advantech_Co_Ltd,2023.0,,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Advantech_Co_Ltd__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Advantech_Co_Ltd,8.5,,2023,Technology & Communications,Hardware,data\raw\Technology_and_Communications\Hardware\Advantech_Co_Ltd__2023.pdf,❓ Partial
+Amount of hazardous waste generated,Advantest_Corp,95.0,,2023,Technology & Communications,Semiconductors,data\raw\Technology_and_Communications\Semiconductors\Advantest_Corp__2023.pdf,✘ Not found
+Percentage grid electricity and percentage renewable,Advantest_Corp,80.0,%,2023,Technology & Communications,Semiconductors,data\raw\Technology_and_Communications\Semiconductors\Advantest_Corp__2023.pdf,❓ Partial
+Year-over-Year Change in GHG Emissions,Advantest_Corp,65.0,,2023,Technology & Communications,Semiconductors,data\raw\Technology_and_Communications\Semiconductors\Advantest_Corp__2023.pdf,❓ Partial
+Amount of hazardous waste generated,Aer_Lingus_Group_DAC,200.0,,2023,Transportation,Airlines,data\raw\Transportation\Airlines\Aer_Lingus_Group_DAC__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Aeroflot_PJSC,106.3,,2023,Transportation,Airlines,data\raw\Transportation\Airlines\Aeroflot_PJSC__2023.pdf,❓ Partial
+Year-over-Year Change in GHG Emissions,Aeroflot_PJSC,8314.2,,2023,Transportation,Airlines,data\raw\Transportation\Airlines\Aeroflot_PJSC__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Aerospace_Industrial_Development_Corp,70.0,kg,2023,Resource Transformation,Aerospace & Defence,data\raw\Resource_Transformation\Aerospace_and_Defence\Aerospace_Industrial_Development_Corp__2023.pdf,❓ Partial
+Priority Non-Conformance Rate in Supply Chain Audits,Aerospace_Industrial_Development_Corp,48.0,,2023,Resource Transformation,Aerospace & Defence,data\raw\Resource_Transformation\Aerospace_and_Defence\Aerospace_Industrial_Development_Corp__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Aflac_Inc,58.0,,2023,Financials,Insurance,data\raw\Financials\Insurance\Aflac_Inc__2023.pdf,✘ Not found
+GHG Emissions Intensity per kWh Delivered,Afya,305.0,,2022,Services,Education,data\raw\Services\Education\Afya__2022.pdf,✘ Not found
+Amount of hazardous waste generated,Agnico_Eagle_Mines_Ltd.,62.0,,2023,Extractives & Minerals Processing,Metals & Mining,data\raw\Extractives_and_Minerals_Processing\Metals_and_Mining\Agnico_Eagle_Mines_Ltd.__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Agnico_Eagle_Mines_Ltd.,50.0,,2023,Extractives & Minerals Processing,Metals & Mining,data\raw\Extractives_and_Minerals_Processing\Metals_and_Mining\Agnico_Eagle_Mines_Ltd.__2023.pdf,✘ Not found
+Total GHG Emissions from Power Generation,Agree_Realty_Corp,24.0,,2023,Infrastructure,Real Estate,data\raw\Infrastructure\Real_Estate\Agree_Realty_Corp__2023.pdf,✘ Not found
+Amount of hazardous waste generated,Agrovision_US_HoldCo_LLC,129.0,,2023,Food & Beverage,Agricultural Products,data\raw\Food_and_Beverage\Agricultural_Products\Agrovision_US_HoldCo_LLC__2023.pdf,✘ Not found
+Year-over-Year Change in GHG Emissions,Agrovision_US_HoldCo_LLC,96.0,,2023,Food & Beverage,Agricultural Products,data\raw\Food_and_Beverage\Agricultural_Products\Agrovision_US_HoldCo_LLC__2023.pdf,✘ Not found

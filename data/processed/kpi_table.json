@@ -1,0 +1,2032 @@
+[
+  {
+    "Company": "Aditya_Birla_Fashion_and_Retail_Ltd",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "1926",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7238
+  },
+  {
+    "Company": "Aditya_Birla_Fashion_and_Retail_Ltd",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "39223",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6815
+  },
+  {
+    "Company": "Aditya_Birla_Fashion_and_Retail_Ltd",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "1120853",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7055
+  },
+  {
+    "Company": "Aditya_Birla_Fashion_and_Retail_Ltd",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "52282",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.6968
+  },
+  {
+    "Company": "Aditya_Birla_Fashion_and_Retail_Ltd",
+    "KPI name": "Hazardous Waste",
+    "Value": "3730",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6836
+  },
+  {
+    "Company": "Aekyung_Industrial_Co_Ltd",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "46",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7267
+  },
+  {
+    "Company": "Aekyung_Industrial_Co_Ltd",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "46",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.711
+  },
+  {
+    "Company": "Advance_Auto_Parts,_Inc.",
+    "KPI name": "Recycled Waste",
+    "Value": "8.8",
+    "Unit": "%",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6204
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "20",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7386
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "81",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7289
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "14064",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7056
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2030",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7045
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "Waste Generated",
+    "Value": "284134",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6385
+  },
+  {
+    "Company": "Acerinox_SA",
+    "KPI name": "Hazardous Waste",
+    "Value": "1182735",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7096
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2030",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.708
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "30",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7463
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "25",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7608
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "50",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7018
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "Waste Generated",
+    "Value": "62",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6346
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "Hazardous Waste",
+    "Value": "62",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7042
+  },
+  {
+    "Company": "ACE_Enexor_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "1256933.46",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7149
+  },
+  {
+    "Company": "ACE_Enexor_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "16617.31",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6913
+  },
+  {
+    "Company": "ACE_Enexor_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2050.",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7083
+  },
+  {
+    "Company": "ACE_Enexor_Inc",
+    "KPI name": "Waste Generated",
+    "Value": "306",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6447
+  },
+  {
+    "Company": "ACE_Enexor_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "306",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7347
+  },
+  {
+    "Company": "Advantage_Energy_Ltd",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "0.0033",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7476
+  },
+  {
+    "Company": "Advantage_Energy_Ltd",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "3125",
+    "Unit": "t",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.702
+  },
+  {
+    "Company": "Advantage_Energy_Ltd",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "68591",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.6671
+  },
+  {
+    "Company": "Advantage_Energy_Ltd",
+    "KPI name": "Waste Generated",
+    "Value": "23",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6087
+  },
+  {
+    "Company": "Africa_Oil_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2023",
+    "Unit": "t",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6882
+  },
+  {
+    "Company": "Africa_Oil_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "1",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7431
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "15048",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6833
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "7294",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6899
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2030",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7161
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "Waste Generated",
+    "Value": "2020",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6153
+  },
+  {
+    "Company": "Admiral",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "1.",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7719
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "Aflac_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "58",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7226
+  },
+  {
+    "Company": "Aflac_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "58",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7503
+  },
+  {
+    "Company": "Aflac_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "58",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.689
+  },
+  {
+    "Company": "AIG_-_American_International_Group_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "50",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7329
+  },
+  {
+    "Company": "AIG_-_American_International_Group_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "50",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7249
+  },
+  {
+    "Company": "AIG_-_American_International_Group_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "76",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.74
+  },
+  {
+    "Company": "AIG_-_American_International_Group_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2019.",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7308
+  },
+  {
+    "Company": "AGNC_Investment_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "144",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7233
+  },
+  {
+    "Company": "AGNC_Investment_Corp",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "143",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7129
+  },
+  {
+    "Company": "AGNC_Investment_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "17",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.723
+  },
+  {
+    "Company": "Adecoagro_SA",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "38",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7534
+  },
+  {
+    "Company": "Adecoagro_SA",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "38",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7495
+  },
+  {
+    "Company": "Adecoagro_SA",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "268036",
+    "Unit": "tCO",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6038
+  },
+  {
+    "Company": "Adecoagro_SA",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "38",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7116
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "96",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7247
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "96",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7173
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "96",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7385
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "96",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7237
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "Waste Generated",
+    "Value": "129",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6453
+  },
+  {
+    "Company": "Agrovision_US_HoldCo_LLC",
+    "KPI name": "Hazardous Waste",
+    "Value": "8.12",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7146
+  },
+  {
+    "Company": "Adecoagro_SA",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "38",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7534
+  },
+  {
+    "Company": "Acadia_Healthcare_Co_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "2.88",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7162
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "30",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7534
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "221",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7077
+  },
+  {
+    "Company": "Aflac_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "58",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7503
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "306",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7125
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "Waste Generated",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6253
+  },
+  {
+    "Company": "Abengoa_Yield_plc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "1395",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7077
+  },
+  {
+    "Company": "Abengoa_Yield_plc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "3",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7706
+  },
+  {
+    "Company": "Abengoa_Yield_plc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "15",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7578
+  },
+  {
+    "Company": "Abengoa_Yield_plc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "70",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7118
+  },
+  {
+    "Company": "Abengoa_Yield_plc",
+    "KPI name": "Hazardous Waste",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6829
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "956",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7074
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6809
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "0.191",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.718
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "956",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7132
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "Waste Generated",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6253
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "Hazardous Waste",
+    "Value": "17352.41",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7057
+  },
+  {
+    "Company": "AES",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2040",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7203
+  },
+  {
+    "Company": "AES",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "1",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7527
+  },
+  {
+    "Company": "AES",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2050.",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7209
+  },
+  {
+    "Company": "AES",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "539000",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7252
+  },
+  {
+    "Company": "AES",
+    "KPI name": "Waste Generated",
+    "Value": "1.2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6279
+  },
+  {
+    "Company": "AES",
+    "KPI name": "Hazardous Waste",
+    "Value": "33123",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6537
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "403",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6536
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "305",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6869
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "305",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "GHG Emissions Intensity per kWh Delivered",
+    "Score": 0.6711
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "Waste Generated",
+    "Value": "2022",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6363
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "Hazardous Waste",
+    "Value": "97",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6938
+  },
+  {
+    "Company": "AECOM",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "60",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7186
+  },
+  {
+    "Company": "AECOM",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "50",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7479
+  },
+  {
+    "Company": "Agree_Realty_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6908
+  },
+  {
+    "Company": "Agree_Realty_Corp",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "1271",
+    "Unit": "mt",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6366
+  },
+  {
+    "Company": "Agree_Realty_Corp",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "13",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7468
+  },
+  {
+    "Company": "Agree_Realty_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "24",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.6758
+  },
+  {
+    "Company": "AES_Brasil",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "953.8",
+    "Unit": "tCO",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6084
+  },
+  {
+    "Company": "AC_Energy_Inc.",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6809
+  },
+  {
+    "Company": "AES_Brasil",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6992
+  },
+  {
+    "Company": "AES_Brasil",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "77",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.6965
+  },
+  {
+    "Company": "AAR_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "10",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7385
+  },
+  {
+    "Company": "AAR_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2024",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7349
+  },
+  {
+    "Company": "Aerospace_Industrial_Development_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "70493",
+    "Unit": "tons",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7059
+  },
+  {
+    "Company": "Aerospace_Industrial_Development_Corp",
+    "KPI name": "Waste Generated",
+    "Value": "70",
+    "Unit": "KG",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6649
+  },
+  {
+    "Company": "Aerospace_Industrial_Development_Corp",
+    "KPI name": "Supply Chain Audits",
+    "Value": "48",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Priority Non-Conformance Rate in Supply Chain Audits",
+    "Score": 0.7099
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "23",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7448
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "20",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7326
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "103",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7627
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "16",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.723
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "Waste Generated",
+    "Value": "388730.3",
+    "Unit": "MT",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6038
+  },
+  {
+    "Company": "Aarti_Industries_Ltd",
+    "KPI name": "Hazardous Waste",
+    "Value": "92",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7008
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2450592",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.677
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "2022",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6834
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "305",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6987
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "11",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7106
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "Waste Generated",
+    "Value": "2021",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6484
+  },
+  {
+    "Company": "AdvanSix_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "22658",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7193
+  },
+  {
+    "Company": "AAON_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "20292",
+    "Unit": "Mt",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6715
+  },
+  {
+    "Company": "Agnico_Eagle_Mines_Ltd.",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "50",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7018
+  },
+  {
+    "Company": "AAON_Inc",
+    "KPI name": "Waste Generated",
+    "Value": "90",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6284
+  },
+  {
+    "Company": "AAON_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "150",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7752
+  },
+  {
+    "Company": "AAON_Inc",
+    "KPI name": "Recycled Waste",
+    "Value": "10",
+    "Unit": "%",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6298
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "5522",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6875
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "3784",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6982
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "3.2.3",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7416
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "13642",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.681
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "Hazardous Waste",
+    "Value": "71.54",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7078
+  },
+  {
+    "Company": "Acme_Electronics_Corp",
+    "KPI name": "Recycled Waste",
+    "Value": "98",
+    "Unit": "%",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6043
+  },
+  {
+    "Company": "Acuity_Brands_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2029",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6947
+  },
+  {
+    "Company": "Acuity_Brands_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "40791",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7016
+  },
+  {
+    "Company": "Acuity_Brands_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2030",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7039
+  },
+  {
+    "Company": "Acuity_Brands_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "42.8",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7067
+  },
+  {
+    "Company": "Acuity_Brands_Inc",
+    "KPI name": "Waste Generated",
+    "Value": "284",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6427
+  },
+  {
+    "Company": "AAON_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "150",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7752
+  },
+  {
+    "Company": "Agree_Realty_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6908
+  },
+  {
+    "Company": "AGCO_Corporation",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "90",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.745
+  },
+  {
+    "Company": "AGCO_Corporation",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2021",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7258
+  },
+  {
+    "Company": "AGCO_Corporation",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "75",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "GHG Emissions Intensity per kWh Delivered",
+    "Score": 0.6983
+  },
+  {
+    "Company": "AGCO_Corporation",
+    "KPI name": "Hazardous Waste",
+    "Value": "2024",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6923
+  },
+  {
+    "Company": "Afya",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2498.09",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7214
+  },
+  {
+    "Company": "Afya",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "524.57",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6918
+  },
+  {
+    "Company": "Afya",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2436.37",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6934
+  },
+  {
+    "Company": "Afya",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "305",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "GHG Emissions Intensity per kWh Delivered",
+    "Score": 0.6801
+  },
+  {
+    "Company": "Accor_SA",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "4.2",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7393
+  },
+  {
+    "Company": "Accor_SA",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "544",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6846
+  },
+  {
+    "Company": "Accor_SA",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2.5",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7512
+  },
+  {
+    "Company": "Accor_SA",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2020",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7556
+  },
+  {
+    "Company": "Accor_SA",
+    "KPI name": "Safety Incidents",
+    "Value": "0.5",
+    "Unit": "",
+    "Year": "2021",
+    "Page": "N/A",
+    "Matched KPI": "Safety Risk Mitigation Rate",
+    "Score": 0.6523
+  },
+  {
+    "Company": "Adecco",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "51.7",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7217
+  },
+  {
+    "Company": "ADT_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "54129",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6999
+  },
+  {
+    "Company": "ADT_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "13437",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6639
+  },
+  {
+    "Company": "ADT_Inc",
+    "KPI name": "Hazardous Waste",
+    "Value": "6937",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7206
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "Microsoft",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "30.9",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7241
+  },
+  {
+    "Company": "Accton_Technology_Corp",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "43475",
+    "Unit": "tCO",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.6037
+  },
+  {
+    "Company": "Accton_Technology_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "71",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7047
+  },
+  {
+    "Company": "Accton_Technology_Corp",
+    "KPI name": "Hazardous Waste",
+    "Value": "6.2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7155
+  },
+  {
+    "Company": "AECOM",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "60",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7186
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "60",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7136
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "49",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7463
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "8.5",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7119
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "Hazardous Waste",
+    "Value": "914.09",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7233
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "Recycled Waste",
+    "Value": "90",
+    "Unit": "%",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.609
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "Supply Chain Audits",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Priority Non-Conformance Rate in Supply Chain Audits",
+    "Score": 0.6808
+  },
+  {
+    "Company": "Advanced_Micro_Devices_Inc_AMD",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "24.5",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7309
+  },
+  {
+    "Company": "Advanced_Micro_Devices_Inc_AMD",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "49391",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.71
+  },
+  {
+    "Company": "Advanced_Micro_Devices_Inc_AMD",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "11",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7576
+  },
+  {
+    "Company": "Advanced_Micro_Devices_Inc_AMD",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "25",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7233
+  },
+  {
+    "Company": "Abbott_Laboratories",
+    "KPI name": "Waste Generated",
+    "Value": "2023",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6253
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "65",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7108
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "1000",
+    "Unit": "t",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.725
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2030.",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7288
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "65",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.6859
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "Renewable Energy Usage",
+    "Value": "80",
+    "Unit": "%",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Percentage grid electricity and percentage renewable",
+    "Score": 0.7645
+  },
+  {
+    "Company": "Advantest_Corp",
+    "KPI name": "Waste Generated",
+    "Value": "95",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6388
+  },
+  {
+    "Company": "Advantech_Co_Ltd",
+    "KPI name": "Recycled Waste",
+    "Value": "90",
+    "Unit": "%",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.609
+  },
+  {
+    "Company": "Acer_E-Enabling_Service_Business_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "1",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7539
+  },
+  {
+    "Company": "ACI_Worldwide,_Inc",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2024.",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7036
+  },
+  {
+    "Company": "ACI_Worldwide,_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "8461.47",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7054
+  },
+  {
+    "Company": "ACI_Worldwide,_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2025",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6921
+  },
+  {
+    "Company": "ACI_Worldwide,_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2025",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7128
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "Activision_Blizzard_Inc",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "86264774",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.68
+  },
+  {
+    "Company": "Activision_Blizzard_Inc",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "2022",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7286
+  },
+  {
+    "Company": "Activision_Blizzard_Inc",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "2050",
+    "Unit": "",
+    "Year": "2022",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7432
+  },
+  {
+    "Company": "Advanced_Info_Service_PCL",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "25",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7418
+  },
+  {
+    "Company": "Advanced_Info_Service_PCL",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "25",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7369
+  },
+  {
+    "Company": "Advanced_Info_Service_PCL",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "10",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7653
+  },
+  {
+    "Company": "Advanced_Micro_Devices_Inc_AMD",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "25",
+    "Unit": "",
+    "Year": "2023-2024",
+    "Page": "N/A",
+    "Matched KPI": "Total GHG Emissions from Power Generation",
+    "Score": 0.7233
+  },
+  {
+    "Company": "Advanced_Info_Service_PCL",
+    "KPI name": "Waste Generated",
+    "Value": "183",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6078
+  },
+  {
+    "Company": "Advanced_Info_Service_PCL",
+    "KPI name": "Hazardous Waste",
+    "Value": "66",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.6833
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "Aeroflot_PJSC",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "2023",
+    "Unit": "t",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6818
+  },
+  {
+    "Company": "Aeroflot_PJSC",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "1750.8",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.69
+  },
+  {
+    "Company": "Aeroflot_PJSC",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "8314.2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7079
+  },
+  {
+    "Company": "Aeroflot_PJSC",
+    "KPI name": "Hazardous Waste",
+    "Value": "106.3",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.7073
+  },
+  {
+    "Company": "Abu_Dhabi_Commercial_Bank_PJSC_ADCB",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "2",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7623
+  },
+  {
+    "Company": "AandT_Europe_-_Spa",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "305",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6869
+  },
+  {
+    "Company": "Aer_Lingus_Group_DAC",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "12",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7686
+  },
+  {
+    "Company": "Aer_Lingus_Group_DAC",
+    "KPI name": "Hazardous Waste",
+    "Value": "200",
+    "Unit": "",
+    "Year": "2023",
+    "Page": "N/A",
+    "Matched KPI": "Amount of hazardous waste generated",
+    "Score": 0.768
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "CO2 Emissions (Scope 1)",
+    "Value": "56851",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Total Gross Global Scope 1 Emissions",
+    "Score": 0.7155
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "CO2 Emissions (Scope 2)",
+    "Value": "3.6",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.7453
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "CO2 Emissions (Scope 3)",
+    "Value": "5743099",
+    "Unit": "mt",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Scope 1, Scope 2, and, if appropriate, Scope 3 GHG emissions",
+    "Score": 0.6394
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "GHG Emissions (Total)",
+    "Value": "3",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Year-over-Year Change in GHG Emissions",
+    "Score": 0.7034
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "Recycled Waste",
+    "Value": "75",
+    "Unit": "%",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Hazardous Waste Generation Rate",
+    "Score": 0.6066
+  },
+  {
+    "Company": "Adient_PLC",
+    "KPI name": "Safety Incidents",
+    "Value": "100",
+    "Unit": "",
+    "Year": "2024",
+    "Page": "N/A",
+    "Matched KPI": "Safety Risk Mitigation Rate",
+    "Score": 0.6472
+  }
+]

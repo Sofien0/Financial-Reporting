@@ -1,0 +1,27 @@
+[
+  {
+    "candidate": "Waste Generated: 284,134 ",
+    "matched_kpi": "Amount of hazardous waste generated",
+    "score": 0.6385
+  },
+  {
+    "candidate": "CO2 Emissions: 1,428 t",
+    "matched_kpi": "Total Gross Global Scope 1 Emissions",
+    "score": 0.6134
+  },
+  {
+    "candidate": "CO2 Emissions: 1,000,000",
+    "matched_kpi": "Total Gross Global Scope 1 Emissions",
+    "score": 0.628
+  },
+  {
+    "candidate": "Waste Generated: 70 KG",
+    "matched_kpi": "Amount of hazardous waste generated",
+    "score": 0.6649
+  },
+  {
+    "candidate": "Waste Generated: 3,88,730.3 MT",
+    "matched_kpi": "Amount of hazardous waste generated",
+    "score": 0.6038
+  }
+]
