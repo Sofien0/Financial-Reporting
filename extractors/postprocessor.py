@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
-
+import os
+import re
 def load_benchmark(path: str) -> pd.DataFrame:
     return pd.read_csv(path)
 
@@ -54,5 +55,58 @@ def run_postprocessing(csv_in='data/benchmark_long_table.csv'):
     df = deduplicate_rows(df)
 
     save_cleaned(df)
+
+def validate_kpi_presence(
+    csv_path='data/processed/benchmark_long_table_cleaned.csv',
+    text_dir='data/processed/parsed_text',
+    out_path='data/outputs/kpi_validation_report.csv'
+):
+    print("🔍 Validating KPI presence in parsed text...")
+
+    df = pd.read_csv(csv_path)
+    results = []
+
+    for _, row in df.iterrows():
+        kpi = str(row['kpi_name'])
+        val = str(row['value'])
+        unit = str(row['unit']) if pd.notna(row['unit']) and row['unit'] else None
+        pdf_path = str(row['pdf_path'])
+
+        # Handle missing path edge cases
+        if not pdf_path or not pdf_path.endswith('.pdf'):
+            results.append({**row, 'validation_result': '✘ Missing .txt'})
+            continue
+
+        # Match just the filename (without folders)
+        pdf_name = Path(pdf_path).name
+        txt_filename = pdf_name.replace('.pdf', '.txt').replace('__', '_')
+        txt_path = Path(text_dir) / txt_filename
+
+        if not txt_path.exists():
+            results.append({**row, 'validation_result': '✘ Missing .txt'})
+            continue
+
+        with open(txt_path, encoding='utf-8', errors='ignore') as f:
+            text = f.read().lower()
+
+        kpi_present = kpi.lower() in text
+        val_present = val.lower() in text
+        unit_present = unit.lower() in text if unit else True
+
+        if kpi_present and val_present:
+            result = "✔ Found"
+        elif kpi_present or val_present:
+            result = "❓ Partial"
+        else:
+            result = "✘ Not found"
+
+        results.append({**row, 'validation_result': result})
+
+    out_df = pd.DataFrame(results)
+    os.makedirs(Path(out_path).parent, exist_ok=True)
+    out_df.to_csv(out_path, index=False)
+    print(f"[✔] Validation report saved to: {out_path}")
+
 if __name__ == "__main__":
-    run_postprocessing()
+    #run_postprocessing()
+    validate_kpi_presence()
