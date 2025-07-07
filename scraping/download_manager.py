@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 import time
 
 # Configuration - Using raw strings (r prefix) for Windows paths
-CSV_FILE = os.path.join('data', 'reports', 'sasb_reporters_metadata_initial.csv')  # Proper path joining
+CSV_FILE = os.path.join('data', 'reports', 'sasb_reporters_metadata_discovery_agent.csv')  # Proper path joining
 REPORTS_BASE_DIR = os.path.join('data', 'reports')  # Base directory for storing reports
 LOG_FILE = os.path.join('data', 'reports', 'download_log.csv')  # File to track download status
 MAX_ROWS_TO_PROCESS = 30  # Only process first 30 rows for testing
@@ -85,8 +85,8 @@ def process_csv():
                     industry = row['Industry'].strip()
                     sector = row['Sector'].strip()
                     country = row['Country'].strip()
-                    report_year = row['Report Period'].strip()
-                    pdf_url = row['PDF URL'].strip()
+                    report_year = row['Report year'].strip()
+                    pdf_url = row['Report link'].strip()
                     
                     print(f"\nProcessing row {processed_rows}: {company_name}")
                     
