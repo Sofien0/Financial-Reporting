@@ -1,5 +1,20 @@
-selenium
-webdriver-manager
-pandas
-requests
-typing-extensions
+# Core dependencies for SASB KPI Generator
+pandas>=2.0.0
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Logging and utilities
+python-dotenv>=1.0.0
+
+# Data processing
+numpy>=1.24.0
+
+# Web scraping dependencies
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Optional: For enhanced data analysis
+# openpyxl>=3.1.0  # For Excel file support
+# xlsxwriter>=3.1.0  # For Excel output formatting

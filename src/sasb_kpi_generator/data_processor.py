@@ -1,7 +1,7 @@
 import pandas as pd
 import logging
 from typing import List, Dict, Any, Iterator
-from config import FILE_CONFIG, OUTPUT_FORMAT
+from .config import FILE_CONFIG, OUTPUT_FORMAT
 
 class DataProcessor:
     """Handles data reading, writing, and processing"""
@@ -57,7 +57,7 @@ class DataProcessor:
         self.save_kpis(kpis_data, mode='a')
     
     def format_kpi_data(self, topic_data: Dict[str, str], kpis: List[Dict[str, str]]) -> List[Dict[str, Any]]:
-        """Format KPI data with topic information"""
+        """Format KPI data with topic information - Enhanced for new fields"""
         formatted_data = []
         
         for kpi in kpis:
@@ -71,7 +71,9 @@ class DataProcessor:
                 "Unit": kpi.get("Unit", ""),
                 "Description": kpi.get("Description", ""),
                 "Calculation": kpi.get("Calculation", ""),
-                "Relevance": kpi.get("Relevance", "")
+                "Relevance": kpi.get("Relevance", ""),
+                "Financial Impact": kpi.get("Financial Impact", ""),
+                "Stakeholder Perspective": kpi.get("Stakeholder Perspective", "")
             }
             formatted_data.append(formatted_kpi)
         
@@ -94,3 +96,36 @@ class DataProcessor:
         """Check if a topic has already been processed"""
         topic_key = f"{topic_data.get('Topic Category', '')}_{topic_data.get('Disclosure Title', '')}_{topic_data.get('Sector', '')}_{topic_data.get('Subsector', '')}"
         return topic_key in processed_topics 
+    
+    def save_kpis_immediate(self, kpis_data: List[Dict[str, Any]], topic_data: Dict[str, str]) -> None:
+        """Save KPIs immediately after each topic is processed (real-time saving)"""
+        try:
+            # Check if file exists to determine if we need headers
+            file_exists = False
+            try:
+                with open(self.output_file, 'r') as f:
+                    file_exists = True
+            except FileNotFoundError:
+                file_exists = False
+            
+            # Create DataFrame
+            df = pd.DataFrame(kpis_data)
+            
+            # Ensure all required columns exist
+            for col in OUTPUT_FORMAT["columns"]:
+                if col not in df.columns:
+                    df[col] = ""
+            
+            # Reorder columns
+            df = df[OUTPUT_FORMAT["columns"]]
+            
+            # Save to CSV (append mode)
+            df.to_csv(self.output_file, index=False, mode='a', 
+                     header=(not file_exists), encoding='utf-8')
+            
+            self.logger.info(f"Immediately saved {len(df)} KPI records for topic: {topic_data.get('Disclosure Title', 'Unknown')}")
+            
+        except Exception as e:
+            self.logger.error(f"Error saving KPIs immediately: {e}")
+            # Don't raise exception to avoid stopping the process
+            pass 
