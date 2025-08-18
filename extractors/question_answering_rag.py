@@ -5,7 +5,7 @@ import argparse
 from pathlib import Path
 import pandas as pd
 from sentence_transformers import SentenceTransformer
-
+from extractors.rag_exporter import export_to_pdf, export_to_docx, export_to_pptx
 # ------------------------
 # CONFIG
 # ------------------------
@@ -14,7 +14,7 @@ METADATA_PATH = Path("data/processed/topic_rag_metadata.pkl")
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 OLLAMA_URL = "http://localhost:11434/api/chat"
 TOP_K = 5
-
+MIN_SIM = 0.72  # cosine/IP threshold
 # ------------------------
 # Load components
 # ------------------------
@@ -38,17 +38,25 @@ def embed_query(model, query):
 # ------------------------
 # Query index
 # ------------------------
-def retrieve_top_chunks(query, model, index, metadata, top_k=TOP_K):
+def retrieve_top_chunks(query, model, index, metadata, top_k=TOP_K, min_sim=MIN_SIM):
     query_vector = embed_query(model, query)
     distances, indices = index.search(query_vector, top_k)
 
     # Build DataFrame from results
-    rows = [metadata.iloc[i] for i in indices[0]]
+    results = []
+    for score, idx in zip(distances[0], indices[0]):
+        if idx == -1:
+            continue
+        if score >= min_sim:  # score filtering
+            row = metadata.iloc[idx]
+            row = row.copy()
+            row["score"] = float(score)
+            results.append(row)
 
     # Deduplicate by 'content'
     seen = set()
     unique_rows = []
-    for row in rows:
+    for row in results:
         if row['content'] not in seen:
             seen.add(row['content'])
             unique_rows.append(row)
@@ -110,19 +118,42 @@ def interactive_rag_chat():
     print("\n💬 ESG RAG Chat Interface (powered by Mistral via Ollama)")
     print("Type your ESG question below. Type 'exit' to quit.\n")
 
+    chat_log = []  # store Q&A pairs
+
     while True:
         query = input("🧠 You: ").strip()
         if query.lower() in {"exit", "quit"}:
             print("👋 Goodbye!")
+
+            choice = input("📤 Do you want to export this session? (no / pdf / docx / pptx): ").strip().lower()
+            if choice in {"pdf", "docx", "pptx"}:
+                if choice == "pdf":
+                    fname = export_to_pdf(chat_log)
+                elif choice == "docx":
+                    fname = export_to_docx(chat_log)
+                else:
+                    fname = export_to_pptx(chat_log)
+                print(f"✅ Session exported to {fname}")
+            else:
+                print("❌ No export made.")
             break
 
-        # Reject irrelevant questions early
+        # ESG relevance check (unchanged)
         if any(bad in query.lower() for bad in ["batman", "superman", "celebrity", "movie", "pizza"]):
             print("🤖 This question appears unrelated to ESG. Please ask something ESG-related.\n")
             continue
 
         top_chunks = retrieve_top_chunks(query, EMBED_MODEL_INSTANCE, INDEX, METADATA)
+        
+        if not top_chunks:
+            print("\n🤖 The answer is not available in the context.\n")
+            print("-" * 80)
+            continue
+        
         answer = call_mistral(query, top_chunks)
+
+        # Save to session log
+        chat_log.append({"question": query, "answer": answer})
 
         print(f"\n🤖 Answer:\n{answer}\n")
         print("-" * 80)
@@ -133,3 +164,5 @@ def interactive_rag_chat():
 # ------------------------
 if __name__ == "__main__":
     interactive_rag_chat()
+
+
